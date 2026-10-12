@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-11T18:18:22.906692408+00:00",
+    "fetched_at": "2026-10-12T06:18:28.535530965+00:00",
     "verified": true
   },
   "metrics": [
@@ -230,15 +230,6 @@
       "kind": "percentage",
       "group": "Academic",
       "last_updated": "2026-09-30"
-    },
-    {
-      "id": "simplebench",
-      "label": "SimpleBench",
-      "kind": "percentage",
-      "group": "Academic",
-      "last_updated": "2026-08-12",
-      "description": "Common-sense reasoning 'trick' questions about space, time, and social cues that are easy for people (84% human baseline) but hard for models. Scored as accuracy (% correct); higher is better.",
-      "short_label": "SimpleBnch"
     },
     {
       "id": "simpleqa_verified",
@@ -2116,10 +2107,6 @@
           "value": 0.564814814814815,
           "date": "2026-08-12"
         },
-        "simplebench": {
-          "value": 0.7590000000000001,
-          "date": "2026-08-12"
-        },
         "simpleqa_verified": {
           "value": 0.493,
           "date": "2026-08-27"
@@ -2191,10 +2178,6 @@
         },
         "scicode": {
           "value": 0.563657407407407,
-          "date": "2026-08-05"
-        },
-        "simplebench": {
-          "value": 0.745,
           "date": "2026-08-05"
         },
         "simpleqa_verified": {
@@ -2345,10 +2328,6 @@
           "value": 0.49884259259259306,
           "date": "2026-07-31"
         },
-        "simplebench": {
-          "value": 0.611,
-          "date": "2026-07-31"
-        },
         "simpleqa_verified": {
           "value": 0.33633633633633636,
           "date": "2026-08-27"
@@ -2491,10 +2470,6 @@
         },
         "scicode": {
           "value": 0.563657407407407,
-          "date": "2026-07-24"
-        },
-        "simplebench": {
-          "value": 0.8059999999999999,
           "date": "2026-07-24"
         },
         "simpleqa_verified": {
@@ -2771,10 +2746,6 @@
           "value": 0.594907407407407,
           "date": "2026-07-16"
         },
-        "simplebench": {
-          "value": 0.6070000000000001,
-          "date": "2026-07-16"
-        },
         "simpleqa_verified": {
           "value": 0.506,
           "date": "2026-08-27"
@@ -2867,10 +2838,6 @@
         },
         "scicode": {
           "value": 0.469907407407407,
-          "date": "2026-07-15"
-        },
-        "simplebench": {
-          "value": 0.5,
           "date": "2026-07-15"
         },
         "simpleqa_verified": {
@@ -3033,10 +3000,6 @@
           "value": 0.53587962962963,
           "date": "2026-07-09"
         },
-        "simplebench": {
-          "value": 0.468,
-          "date": "2026-07-09"
-        },
         "simpleqa_verified": {
           "value": 0.41,
           "date": "2026-08-10"
@@ -3171,10 +3134,6 @@
           "value": 0.570601851851852,
           "date": "2026-07-09"
         },
-        "simplebench": {
-          "value": 0.648,
-          "date": "2026-07-09"
-        },
         "simpleqa_verified": {
           "value": 0.697,
           "date": "2026-08-10"
@@ -3227,34 +3186,6 @@
         },
         "weirdml": {
           "value": 0.8943000000000001,
-          "date": "2026-07-09"
-        }
-      }
-    },
-    {
-      "id": "gpt-5.6-sol_prounknown",
-      "name": "gpt-5.6-sol_prounknown",
-      "display_name": "gpt-5.6-sol_prounknown",
-      "creator": "openai",
-      "creator_name": "OpenAI",
-      "release_date": "2026-07-09",
-      "scores": {
-        "simplebench": {
-          "value": 0.717,
-          "date": "2026-07-09"
-        }
-      }
-    },
-    {
-      "id": "gpt-5.6-sol_proxhigh",
-      "name": "gpt-5.6-sol_proxhigh",
-      "display_name": "gpt-5.6-sol_proxhigh",
-      "creator": "openai",
-      "creator_name": "OpenAI",
-      "release_date": "2026-07-09",
-      "scores": {
-        "simplebench": {
-          "value": 0.7170000000000001,
           "date": "2026-07-09"
         }
       }
@@ -3349,10 +3280,6 @@
         },
         "scicode": {
           "value": 0.549768518518518,
-          "date": "2026-07-09"
-        },
-        "simplebench": {
-          "value": 0.489,
           "date": "2026-07-09"
         },
         "simpleqa_verified": {
@@ -3503,10 +3430,6 @@
           "value": 0.540509259259259,
           "date": "2026-07-08"
         },
-        "simplebench": {
-          "value": 0.7000000000000001,
-          "date": "2026-07-08"
-        },
         "simpleqa_verified": {
           "value": 0.483,
           "date": "2026-08-27"
@@ -3623,10 +3546,6 @@
           "value": 0.542824074074074,
           "date": "2026-06-30"
         },
-        "simplebench": {
-          "value": 0.606,
-          "date": "2026-06-30"
-        },
         "simpleqa_verified": {
           "value": 0.337,
           "date": "2026-08-27"
@@ -3725,10 +3644,6 @@
           "value": 0.50462962962963,
           "date": "2026-06-16"
         },
-        "simplebench": {
-          "value": 0.588,
-          "date": "2026-06-16"
-        },
         "simpleqa_verified": {
           "value": 0.342,
           "date": "2026-08-27"
@@ -3797,10 +3712,6 @@
         },
         "scicode": {
           "value": 0.474537037037037,
-          "date": "2026-06-12"
-        },
-        "simplebench": {
-          "value": 0.579,
           "date": "2026-06-12"
         },
         "simpleqa_verified": {
@@ -3931,10 +3842,6 @@
         },
         "scicode": {
           "value": 0.609953703703704,
-          "date": "2026-06-09"
-        },
-        "simplebench": {
-          "value": 0.8190000000000001,
           "date": "2026-06-09"
         },
         "simpleqa_verified": {
@@ -4123,10 +4030,6 @@
           "value": 0.47106481481481505,
           "date": "2026-06-01"
         },
-        "simplebench": {
-          "value": 0.45799999999999996,
-          "date": "2026-06-01"
-        },
         "surface_evolver_bench": {
           "value": 0.5499999999999999,
           "date": "2026-06-01"
@@ -4277,10 +4180,6 @@
           "value": 0.534722222222222,
           "date": "2026-05-28"
         },
-        "simplebench": {
-          "value": 0.648,
-          "date": "2026-05-28"
-        },
         "simpleqa_verified": {
           "value": 0.53,
           "date": "2026-08-27"
@@ -4397,10 +4296,6 @@
           "value": 0.53125,
           "date": "2026-05-19"
         },
-        "simplebench": {
-          "value": 0.767,
-          "date": "2026-05-19"
-        },
         "simpleqa_verified": {
           "value": 0.662,
           "date": "2026-08-27"
@@ -4477,10 +4372,6 @@
         },
         "scicode": {
           "value": 0.488425925925926,
-          "date": "2026-05-19"
-        },
-        "simplebench": {
-          "value": 0.7040000000000001,
           "date": "2026-05-19"
         },
         "simpleqa_verified": {
@@ -4717,10 +4608,6 @@
           "value": 0.8444444444444444,
           "date": "2026-08-07"
         },
-        "simplebench": {
-          "value": 0.352,
-          "date": "2026-04-27"
-        },
         "simpleqa_verified": {
           "value": 0.15915915915915915,
           "date": "2026-08-27"
@@ -4753,10 +4640,6 @@
         },
         "scicode": {
           "value": 0.44907407407407407,
-          "date": "2026-04-24"
-        },
-        "simplebench": {
-          "value": 0.46299999999999997,
           "date": "2026-04-24"
         },
         "weirdml": {
@@ -4951,10 +4834,6 @@
           "value": 0.561342592592593,
           "date": "2026-04-23"
         },
-        "simplebench": {
-          "value": 0.6900000000000001,
-          "date": "2026-04-23"
-        },
         "simpleqa_verified": {
           "value": 0.63,
           "date": "2026-08-27"
@@ -5030,10 +4909,6 @@
         },
         "lmca": {
           "value": 53.94,
-          "date": "2026-04-23"
-        },
-        "simplebench": {
-          "value": 0.7690000000000001,
           "date": "2026-04-23"
         }
       }
@@ -5221,10 +5096,6 @@
           "value": 0.9111111111111111,
           "date": "2026-08-07"
         },
-        "simplebench": {
-          "value": 0.63,
-          "date": "2026-04-20"
-        },
         "simpleqa_verified": {
           "value": 0.5200400801603207,
           "date": "2026-08-27"
@@ -5401,10 +5272,6 @@
           "value": 0.545138888888889,
           "date": "2026-04-16"
         },
-        "simplebench": {
-          "value": 0.617,
-          "date": "2026-04-16"
-        },
         "simpleqa_verified": {
           "value": 0.517,
           "date": "2026-08-27"
@@ -5563,10 +5430,6 @@
         },
         "scicode": {
           "value": 0.4375,
-          "date": "2026-04-07"
-        },
-        "simplebench": {
-          "value": 0.551,
           "date": "2026-04-07"
         },
         "simpleqa_verified": {
@@ -6168,10 +6031,6 @@
           "value": 0.4432,
           "date": "2026-03-05"
         },
-        "simplebench": {
-          "value": 0.741,
-          "date": "2026-03-05"
-        },
         "simpleqa_verified": {
           "value": 0.463,
           "date": "2026-08-27"
@@ -6550,10 +6409,6 @@
           "value": 0.58912037037037,
           "date": "2026-02-19"
         },
-        "simplebench": {
-          "value": 0.7959999999999999,
-          "date": "2026-02-19"
-        },
         "simpleqa_verified": {
           "value": 0.735,
           "date": "2026-08-10"
@@ -6920,10 +6775,6 @@
           "value": 0.8,
           "date": "2026-02-12"
         },
-        "simplebench": {
-          "value": 0.532,
-          "date": "2026-02-11"
-        },
         "vending_bench_2": {
           "value": 4432.122000000001,
           "date": "2026-02-11"
@@ -7016,10 +6867,6 @@
         },
         "rli": {
           "value": 0.0417,
-          "date": "2026-02-05"
-        },
-        "simplebench": {
-          "value": 0.6759999999999999,
           "date": "2026-02-05"
         },
         "simpleqa_verified": {
@@ -7134,10 +6981,6 @@
           "value": 0.48958333333333304,
           "date": "2026-01-27"
         },
-        "simplebench": {
-          "value": 0.46799999999999997,
-          "date": "2026-01-27"
-        },
         "simpleqa_verified": {
           "value": 0.343,
           "date": "2026-08-27"
@@ -7220,30 +7063,12 @@
           "value": 0.451388888888889,
           "date": "2025-12-22"
         },
-        "simplebench": {
-          "value": 0.477,
-          "date": "2025-12-22"
-        },
         "simpleqa_verified": {
           "value": 0.322,
           "date": "2026-08-27"
         },
         "vending_bench_2": {
           "value": 2376.816,
-          "date": "2025-12-22"
-        }
-      }
-    },
-    {
-      "id": "zai-org/glm-4.7",
-      "name": "zai-org/glm-4.7",
-      "display_name": "zai-org/glm-4.7",
-      "creator": "z-ai-zhipu-ai",
-      "creator_name": "Z.ai (Zhipu AI)",
-      "release_date": "2025-12-22",
-      "scores": {
-        "simplebench": {
-          "value": 0.47700000000000004,
           "date": "2025-12-22"
         }
       }
@@ -7328,10 +7153,6 @@
         },
         "proofbench": {
           "value": 0.15,
-          "date": "2025-12-17"
-        },
-        "simplebench": {
-          "value": 0.611,
           "date": "2025-12-17"
         },
         "simpleqa_verified": {
@@ -7424,10 +7245,6 @@
           "value": 0.025019999999999997,
           "date": "2025-12-11"
         },
-        "simplebench": {
-          "value": 0.458,
-          "date": "2025-12-11"
-        },
         "simpleqa_verified": {
           "value": 0.371,
           "date": "2026-08-27"
@@ -7465,10 +7282,6 @@
         "frontiermath_tiers_1_3_v2": {
           "value": 0.74,
           "date": "2026-06-13"
-        },
-        "simplebench": {
-          "value": 0.574,
-          "date": "2025-12-11"
         }
       }
     },
@@ -7546,10 +7359,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2025-12-01",
       "scores": {
-        "simplebench": {
-          "value": 0.526,
-          "date": "2025-12-01"
-        },
         "weirdml": {
           "value": 0.4673,
           "date": "2025-12-01"
@@ -7732,10 +7541,6 @@
           "value": 0.0375,
           "date": "2025-11-24"
         },
-        "simplebench": {
-          "value": 0.62,
-          "date": "2025-11-24"
-        },
         "simpleqa_verified": {
           "value": 0.457,
           "date": "2026-08-27"
@@ -7791,20 +7596,6 @@
       }
     },
     {
-      "id": "grok-4-1-fast-non-reasoning",
-      "name": "grok-4-1-fast-non-reasoning",
-      "display_name": "grok-4-1-fast-non-reasoning",
-      "creator": "xai",
-      "creator_name": "xAI",
-      "release_date": "2025-11-19",
-      "scores": {
-        "simplebench": {
-          "value": 0.56,
-          "date": "2025-11-19"
-        }
-      }
-    },
-    {
       "id": "grok-4-1-fast-reasoning",
       "name": "grok-4-1-fast-reasoning",
       "display_name": "grok-4-1-fast-reasoning",
@@ -7822,10 +7613,6 @@
         },
         "proofbench": {
           "value": 0.04,
-          "date": "2025-11-19"
-        },
-        "simplebench": {
-          "value": 0.56,
           "date": "2025-11-19"
         },
         "vending_bench_2": {
@@ -7888,10 +7675,6 @@
         },
         "rli": {
           "value": 0.0125,
-          "date": "2025-11-18"
-        },
-        "simplebench": {
-          "value": 0.7640000000000001,
           "date": "2025-11-18"
         },
         "vending_bench_2": {
@@ -7962,10 +7745,6 @@
         },
         "scicode": {
           "value": 0.43287037037037,
-          "date": "2025-11-13"
-        },
-        "simplebench": {
-          "value": 0.532,
           "date": "2025-11-13"
         },
         "simpleqa_verified": {
@@ -8192,10 +7971,6 @@
           "value": 0.3164,
           "date": "2025-10-07"
         },
-        "simplebench": {
-          "value": 0.616,
-          "date": "2025-10-07"
-        },
         "weirdml": {
           "value": 0.6039,
           "date": "2025-10-07"
@@ -8377,10 +8152,6 @@
         },
         "scicode": {
           "value": 0.446759259259259,
-          "date": "2025-09-29"
-        },
-        "simplebench": {
-          "value": 0.543,
           "date": "2025-09-29"
         },
         "simpleqa_verified": {
@@ -8661,10 +8432,6 @@
           "value": 24.29,
           "date": "2025-08-21"
         },
-        "simplebench": {
-          "value": 0.4,
-          "date": "2025-08-21"
-        },
         "weirdml": {
           "value": 0.3836,
           "date": "2025-08-21"
@@ -8809,10 +8576,6 @@
         },
         "scicode": {
           "value": 0.429398148148148,
-          "date": "2025-08-07"
-        },
-        "simplebench": {
-          "value": 0.5670000000000001,
           "date": "2025-08-07"
         },
         "simpleqa_verified": {
@@ -9047,10 +8810,6 @@
           "value": 0.6888888888888889,
           "date": "2025-08-05"
         },
-        "simplebench": {
-          "value": 0.6,
-          "date": "2025-08-05"
-        },
         "weirdml": {
           "value": 0.4586,
           "date": "2025-08-05"
@@ -9084,10 +8843,6 @@
         "mystery_game_puzzles": {
           "value": 0.02,
           "date": "2026-08-27"
-        },
-        "simplebench": {
-          "value": 0.221,
-          "date": "2025-08-05"
         },
         "surface_evolver_bench": {
           "value": 0.25,
@@ -9438,10 +9193,6 @@
           "value": 0.049,
           "date": "2025-08-26"
         },
-        "simplebench": {
-          "value": 0.263,
-          "date": "2025-07-12"
-        },
         "weirdml": {
           "value": 0.3936,
           "date": "2025-07-12"
@@ -9492,10 +9243,6 @@
         },
         "otis_mock_aime_2024_2025": {
           "value": 0.84,
-          "date": "2025-07-09"
-        },
-        "simplebench": {
-          "value": 0.605,
           "date": "2025-07-09"
         },
         "weirdml": {
@@ -9596,10 +9343,6 @@
         },
         "lmca": {
           "value": 27.49,
-          "date": "2025-06-17"
-        },
-        "simplebench": {
-          "value": 0.412,
           "date": "2025-06-17"
         },
         "vending_bench_2": {
@@ -9824,10 +9567,6 @@
         "rli": {
           "value": 0.0083,
           "date": "2025-06-05"
-        },
-        "simplebench": {
-          "value": 0.624,
-          "date": "2025-06-05"
         }
       }
     },
@@ -9858,10 +9597,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.6638888888888889,
           "date": "2025-05-29"
-        },
-        "simplebench": {
-          "value": 0.408,
-          "date": "2025-05-28"
         },
         "weirdml": {
           "value": 0.41630000000000006,
@@ -9935,10 +9670,6 @@
           "value": 0.6444444444444445,
           "date": "2025-05-28"
         },
-        "simplebench": {
-          "value": 0.588,
-          "date": "2025-05-22"
-        },
         "weirdml": {
           "value": 0.4372,
           "date": "2025-05-22"
@@ -9995,10 +9726,6 @@
         },
         "scicode": {
           "value": 0.4004629629629631,
-          "date": "2025-05-22"
-        },
-        "simplebench": {
-          "value": 0.455,
           "date": "2025-05-22"
         },
         "weirdml": {
@@ -10264,10 +9991,6 @@
         "gpqa_diamond": {
           "value": 0.7070707070707071,
           "date": "2025-06-03"
-        },
-        "simplebench": {
-          "value": 0.31,
-          "date": "2025-04-29"
         }
       }
     },
@@ -10451,10 +10174,6 @@
           "value": 0.8444444444444444,
           "date": "2026-08-07"
         },
-        "simplebench": {
-          "value": 0.531,
-          "date": "2025-04-16"
-        },
         "simpleqa_verified": {
           "value": 0.494,
           "date": "2026-08-27"
@@ -10529,10 +10248,6 @@
           "value": 0.8166666666666667,
           "date": "2025-04-16"
         },
-        "simplebench": {
-          "value": 0.387,
-          "date": "2025-04-16"
-        },
         "simpleqa_verified": {
           "value": 0.196,
           "date": "2026-08-27"
@@ -10589,10 +10304,6 @@
         },
         "otis_mock_aime_2024_2025": {
           "value": 0.38333333333333336,
-          "date": "2025-04-14"
-        },
-        "simplebench": {
-          "value": 0.27,
           "date": "2025-04-14"
         },
         "simpleqa_verified": {
@@ -10733,10 +10444,6 @@
           "value": 0.0,
           "date": "2025-04-09"
         },
-        "simplebench": {
-          "value": 0.361,
-          "date": "2025-04-09"
-        },
         "weirdml": {
           "value": 0.3724,
           "date": "2025-04-09"
@@ -10855,10 +10562,6 @@
           "value": 0.331018518518519,
           "date": "2025-04-05"
         },
-        "simplebench": {
-          "value": 0.277,
-          "date": "2025-04-05"
-        },
         "weirdml": {
           "value": 0.2447,
           "date": "2025-04-05"
@@ -10940,10 +10643,6 @@
         "arc_agi": {
           "value": 0.33,
           "date": "2025-03-31"
-        },
-        "simplebench": {
-          "value": 0.516,
-          "date": "2025-03-31"
         }
       }
     },
@@ -10965,10 +10664,6 @@
         },
         "hle": {
           "value": 0.1816,
-          "date": "2025-03-25"
-        },
-        "simplebench": {
-          "value": 0.516,
           "date": "2025-03-25"
         }
       }
@@ -11003,10 +10698,6 @@
         },
         "scicode": {
           "value": 0.357638888888889,
-          "date": "2025-03-24"
-        },
-        "simplebench": {
-          "value": 0.272,
           "date": "2025-03-24"
         },
         "weirdml": {
@@ -11313,10 +11004,6 @@
           "value": 0.37777777777777777,
           "date": "2025-02-28"
         },
-        "simplebench": {
-          "value": 0.345,
-          "date": "2025-02-27"
-        },
         "weirdml": {
           "value": 0.3937,
           "date": "2025-02-27"
@@ -11354,10 +11041,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.5777777777777777,
           "date": "2025-03-13"
-        },
-        "simplebench": {
-          "value": 0.464,
-          "date": "2025-02-24"
         }
       }
     },
@@ -11479,10 +11162,6 @@
           "value": 0.397856419092825,
           "date": "2025-01-31"
         },
-        "simplebench": {
-          "value": 0.228,
-          "date": "2025-01-31"
-        },
         "simpleqa_verified": {
           "value": 0.153,
           "date": "2026-08-31"
@@ -11588,10 +11267,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.5777777777777777,
           "date": "2025-03-07"
-        },
-        "simplebench": {
-          "value": 0.307,
-          "date": "2025-01-21"
         }
       }
     },
@@ -11629,10 +11304,6 @@
         },
         "scicode": {
           "value": 0.35714285714285704,
-          "date": "2025-01-20"
-        },
-        "simplebench": {
-          "value": 0.309,
           "date": "2025-01-20"
         },
         "weirdml": {
@@ -11766,10 +11437,6 @@
         "scicode": {
           "value": 0.354166666666667,
           "date": "2024-12-26"
-        },
-        "simplebench": {
-          "value": 0.189,
-          "date": "2024-12-26"
         }
       }
     },
@@ -11813,10 +11480,6 @@
           "value": 0.7333333333333333,
           "date": "2026-07-15"
         },
-        "simplebench": {
-          "value": 0.401,
-          "date": "2024-12-17"
-        },
         "simpleqa_verified": {
           "value": 0.411,
           "date": "2026-08-31"
@@ -11847,10 +11510,6 @@
           "value": 0.11527777777777778,
           "date": "2025-02-25"
         },
-        "simplebench": {
-          "value": 0.227,
-          "date": "2024-12-12"
-        },
         "weirdml": {
           "value": 0.2224,
           "date": "2024-12-12"
@@ -11880,20 +11539,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.1375,
           "date": "2025-02-25"
-        }
-      }
-    },
-    {
-      "id": "gemini-2.0-flash-exp",
-      "name": "gemini-2.0-flash-exp",
-      "display_name": "gemini-2.0-flash-exp",
-      "creator": "google-deepmind",
-      "creator_name": "Google DeepMind",
-      "release_date": "2024-12-11",
-      "scores": {
-        "simplebench": {
-          "value": 0.189,
-          "date": "2024-12-11"
         }
       }
     },
@@ -11933,26 +11578,8 @@
           "value": 0.260416666666667,
           "date": "2024-12-06"
         },
-        "simplebench": {
-          "value": 0.199,
-          "date": "2024-12-06"
-        },
         "weirdml": {
           "value": 0.1444,
-          "date": "2024-12-06"
-        }
-      }
-    },
-    {
-      "id": "gemini-exp-1206",
-      "name": "gemini-exp-1206",
-      "display_name": "gemini-exp-1206",
-      "creator": "google-deepmind",
-      "creator_name": "Google DeepMind",
-      "release_date": "2024-12-06",
-      "scores": {
-        "simplebench": {
-          "value": 0.311,
           "date": "2024-12-06"
         }
       }
@@ -12158,10 +11785,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.08472222222222223,
           "date": "2025-02-25"
-        },
-        "simplebench": {
-          "value": 0.414,
-          "date": "2024-10-22"
         },
         "weirdml": {
           "value": 0.3997,
@@ -12369,10 +11992,6 @@
           "value": 0.23055555555555557,
           "date": "2025-02-25"
         },
-        "simplebench": {
-          "value": 0.271,
-          "date": "2024-09-24"
-        },
         "weirdml": {
           "value": 0.222,
           "date": "2024-09-24"
@@ -12507,10 +12126,6 @@
           "value": 0.46944444444444444,
           "date": "2025-03-06"
         },
-        "simplebench": {
-          "value": 0.181,
-          "date": "2024-09-12"
-        },
         "weirdml": {
           "value": 0.3632,
           "date": "2024-09-12"
@@ -12536,10 +12151,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.3111111111111111,
           "date": "2025-03-07"
-        },
-        "simplebench": {
-          "value": 0.417,
-          "date": "2024-09-12"
         },
         "weirdml": {
           "value": 0.4756,
@@ -12579,10 +12190,6 @@
         },
         "lmca": {
           "value": 5.01,
-          "date": "2024-08-30"
-        },
-        "simplebench": {
-          "value": 0.174,
           "date": "2024-08-30"
         }
       }
@@ -12639,10 +12246,6 @@
           "value": 0.06388888888888888,
           "date": "2025-02-25"
         },
-        "simplebench": {
-          "value": 0.178,
-          "date": "2024-08-06"
-        },
         "simpleqa_verified": {
           "value": 0.26,
           "date": "2026-08-31"
@@ -12668,10 +12271,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.08472222222222223,
           "date": "2025-02-25"
-        },
-        "simplebench": {
-          "value": 0.225,
-          "date": "2024-07-24"
         }
       }
     },
@@ -12694,10 +12293,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.09722222222222222,
           "date": "2025-02-25"
-        },
-        "simplebench": {
-          "value": 0.23,
-          "date": "2024-07-23"
         },
         "weirdml": {
           "value": 0.2138,
@@ -12847,10 +12442,6 @@
           "value": 0.06944444444444445,
           "date": "2025-07-30"
         },
-        "simplebench": {
-          "value": 0.107,
-          "date": "2024-07-18"
-        },
         "simpleqa_verified": {
           "value": 0.083,
           "date": "2026-08-31"
@@ -12948,10 +12539,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.06527777777777778,
           "date": "2025-02-25"
-        },
-        "simplebench": {
-          "value": 0.275,
-          "date": "2024-06-20"
         },
         "weirdml": {
           "value": 0.3097,
@@ -13233,10 +12820,6 @@
           "value": 0.06666666666666667,
           "date": "2025-02-27"
         },
-        "simplebench": {
-          "value": 0.251,
-          "date": "2024-04-09"
-        },
         "weirdml": {
           "value": 0.1801,
           "date": "2024-04-09"
@@ -13328,10 +12911,6 @@
         "otis_mock_aime_2024_2025": {
           "value": 0.04722222222222222,
           "date": "2025-02-25"
-        },
-        "simplebench": {
-          "value": 0.235,
-          "date": "2024-02-29"
         },
         "simpleqa_verified": {
           "value": 0.126,
