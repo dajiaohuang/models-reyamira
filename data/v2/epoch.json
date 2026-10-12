@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-12T06:18:28.535530965+00:00",
+    "fetched_at": "2026-10-12T18:18:12.082528865+00:00",
     "verified": true
   },
   "metrics": [
@@ -127,7 +127,7 @@
       "label": "Ebr Bench",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-09-29"
+      "last_updated": "2026-10-09"
     },
     {
       "id": "frontiercode",
@@ -271,6 +271,10 @@
       "creator_name": "Anthropic",
       "release_date": "2026-10-07",
       "scores": {
+        "ebr_bench": {
+          "value": 0.43809523809523804,
+          "date": "2026-10-09"
+        },
         "frontiermath_tier_4_v2": {
           "value": 0.4634146341463415,
           "date": "2026-10-07"
