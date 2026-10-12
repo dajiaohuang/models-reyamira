@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-12T23:18:25.459604822+00:00",
+    "fetched_at": "2026-10-12T23:48:12.417516250+00:00",
     "verified": true
   },
   "metrics": [
@@ -14137,13 +14137,13 @@
           "value": 131.477
         },
         "price_blended": {
-          "value": 3.438
+          "value": 3.781
         },
         "price_input": {
-          "value": 1.25
+          "value": 1.375
         },
         "price_output": {
-          "value": 10.0
+          "value": 11.0
         },
         "tau2": {
           "value": 0.926900584795322
@@ -14821,13 +14821,13 @@
           "value": 217.699
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.935
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.33
         },
         "price_output": {
-          "value": 2.5
+          "value": 2.75
         },
         "tau2": {
           "value": 0.728070175438596
@@ -15468,13 +15468,13 @@
           "value": 140.819
         },
         "price_blended": {
-          "value": 3.438
+          "value": 3.781
         },
         "price_input": {
-          "value": 1.25
+          "value": 1.375
         },
         "price_output": {
-          "value": 10.0
+          "value": 11.0
         },
         "tau2": {
           "value": 0.906432748538012
@@ -15870,13 +15870,13 @@
           "value": 195.833
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.935
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.33
         },
         "price_output": {
-          "value": 2.5
+          "value": 2.75
         },
         "tau2": {
           "value": 0.757309941520468
@@ -16637,13 +16637,13 @@
           "value": 201.397
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.935
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.33
         },
         "price_output": {
-          "value": 2.5
+          "value": 2.75
         },
         "tau2": {
           "value": 0.719298245614035
@@ -18802,13 +18802,13 @@
           "value": 136.134
         },
         "price_blended": {
-          "value": 3.438
+          "value": 3.781
         },
         "price_input": {
-          "value": 1.25
+          "value": 1.375
         },
         "price_output": {
-          "value": 10.0
+          "value": 11.0
         },
         "tau2": {
           "value": 0.716374269005848
@@ -21324,13 +21324,13 @@
           "value": 224.771
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.935
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.33
         },
         "price_output": {
-          "value": 2.5
+          "value": 2.75
         },
         "tau2": {
           "value": 0.619883040935672
