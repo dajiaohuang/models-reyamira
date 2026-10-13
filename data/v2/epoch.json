@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-13T06:18:24.871905041+00:00",
+    "fetched_at": "2026-10-13T18:18:30.742579569+00:00",
     "verified": true
   },
   "metrics": [
@@ -127,7 +127,7 @@
       "label": "Ebr Bench",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-09"
+      "last_updated": "2026-10-12"
     },
     {
       "id": "frontiercode",
@@ -236,7 +236,7 @@
       "label": "SimpleQA Verified",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-13",
       "description": "A cleaned 1,000-prompt factuality benchmark of short fact-seeking questions, measuring parametric knowledge and resistance to hallucination. Scored as accuracy (% answered correctly); higher is better.",
       "short_label": "SimpleQA"
     },
@@ -263,6 +263,21 @@
     }
   ],
   "models": [
+    {
+      "id": "muse-wonder-1.0",
+      "name": "muse-wonder-1.0_max",
+      "display_name": "muse-wonder-1.0",
+      "creator": "meta-ai",
+      "creator_name": "Meta AI",
+      "release_date": "2026-10-12",
+      "effort_level": "max",
+      "scores": {
+        "ebr_bench": {
+          "value": 0.3142857142857143,
+          "date": "2026-10-12"
+        }
+      }
+    },
     {
       "id": "claude-haiku-5-5",
       "name": "claude-haiku-5-5",
@@ -1046,6 +1061,10 @@
         "scicode": {
           "value": 0.518518518518518,
           "date": "2026-09-09"
+        },
+        "simpleqa_verified": {
+          "value": 0.429,
+          "date": "2026-10-13"
         },
         "surface_evolver_bench": {
           "value": 0.4625,
