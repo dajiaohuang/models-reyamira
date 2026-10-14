@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-13T18:18:30.742579569+00:00",
+    "fetched_at": "2026-10-14T06:18:00.564468323+00:00",
     "verified": true
   },
   "metrics": [
@@ -169,14 +169,14 @@
       "label": "Furniture Assembly",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-08"
+      "last_updated": "2026-10-13"
     },
     {
       "id": "gpqa_diamond",
       "label": "GPQA Diamond",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-13",
       "description": "198 'Google-proof' graduate-level biology, chemistry, and physics questions that stump non-experts even with web access. Scored as accuracy (% correct); higher is better.",
       "short_label": "GPQA"
     },
@@ -206,7 +206,7 @@
       "label": "OTIS Mock AIME",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-08",
+      "last_updated": "2026-10-12",
       "description": "45 competition-style math problems from the 2024-2025 OTIS Mock AIME exams (integer answers 0-999), harder than MATH Level 5 but easier than FrontierMath. Scored as accuracy (% correct); higher is better.",
       "short_label": "OTIS AIME"
     },
@@ -329,6 +329,14 @@
       "release_date": "2026-10-06",
       "effort_level": "high",
       "scores": {
+        "gpqa_diamond": {
+          "value": 0.8806818181818182,
+          "date": "2026-10-12"
+        },
+        "otis_mock_aime_2024_2025": {
+          "value": 0.9833333333333333,
+          "date": "2026-10-12"
+        },
         "simpleqa_verified": {
           "value": 0.2,
           "date": "2026-10-09"
@@ -359,6 +367,14 @@
           "value": 0.5496118588235293,
           "date": "2026-09-30"
         },
+        "furniture_assembly": {
+          "value": 0.725,
+          "date": "2026-10-13"
+        },
+        "gpqa_diamond": {
+          "value": 0.9640151515151515,
+          "date": "2026-10-13"
+        },
         "proofbench": {
           "value": 0.99,
           "date": "2026-09-30"
@@ -366,6 +382,10 @@
         "scicode": {
           "value": 0.618055555555556,
           "date": "2026-09-30"
+        },
+        "simpleqa_verified": {
+          "value": 0.76,
+          "date": "2026-10-13"
         },
         "vending_bench_2": {
           "value": 13718.158333333333,
