@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-15T06:17:53.860124738+00:00",
+    "fetched_at": "2026-10-15T18:18:03.745390535+00:00",
     "verified": true
   },
   "metrics": [
@@ -127,7 +127,7 @@
       "label": "Ebr Bench",
       "kind": "percentage",
       "group": "Academic",
-      "last_updated": "2026-10-12"
+      "last_updated": "2026-10-13"
     },
     {
       "id": "frontiercode",
@@ -485,6 +485,10 @@
         "cursorbench": {
           "value": 0.529,
           "date": "2026-09-30"
+        },
+        "ebr_bench": {
+          "value": 0.6476190476190476,
+          "date": "2026-10-13"
         },
         "frontiercode": {
           "value": 0.4755,
@@ -2280,8 +2284,8 @@
           "date": "2026-08-13"
         },
         "chess_puzzles": {
-          "value": 0.47,
-          "date": "2026-08-14"
+          "value": 0.66,
+          "date": "2026-10-13"
         },
         "critpt": {
           "value": 0.142857142857143,
@@ -2489,6 +2493,10 @@
         "apex_agents": {
           "value": 0.364,
           "date": "2026-08-05"
+        },
+        "chess_puzzles": {
+          "value": 0.27,
+          "date": "2026-10-13"
         },
         "critpt": {
           "value": 0.177142857142857,
@@ -3649,6 +3657,10 @@
         "apex_agents": {
           "value": 0.318,
           "date": "2026-07-09"
+        },
+        "chess_puzzles": {
+          "value": 0.34,
+          "date": "2026-10-13"
         },
         "critpt": {
           "value": 0.151428571428571,
