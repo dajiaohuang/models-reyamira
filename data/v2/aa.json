@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-15T15:17:56.470856526+00:00",
+    "fetched_at": "2026-10-15T15:47:59.113658977+00:00",
     "verified": true
   },
   "metrics": [
@@ -6540,6 +6540,37 @@
       }
     },
     {
+      "id": "nemotron-3-5-super-vl",
+      "name": "Nemotron 3.5 Super VL",
+      "display_name": "Nemotron 3.5 Super VL",
+      "creator": "nvidia",
+      "creator_name": "NVIDIA",
+      "release_date": "2026-10-15",
+      "scores": {
+        "hle": {
+          "value": 0.307
+        },
+        "intelligence_index": {
+          "value": 26.5
+        },
+        "lcr": {
+          "value": 0.69
+        },
+        "price_blended": {
+          "value": 0.0
+        },
+        "price_input": {
+          "value": 0.0
+        },
+        "price_output": {
+          "value": 0.0
+        },
+        "scicode": {
+          "value": 0.478
+        }
+      }
+    },
+    {
       "id": "apodex-1-1",
       "name": "Apodex 1.1",
       "display_name": "Apodex 1.1",
@@ -9645,6 +9676,37 @@
         },
         "terminalbench_hard": {
           "value": 0.348484848484849
+        }
+      }
+    },
+    {
+      "id": "nemotron-3-5-bolt-74b-a9b",
+      "name": "Nemotron 3.5 Bolt 74B-A9B",
+      "display_name": "Nemotron 3.5 Bolt 74B-A9B",
+      "creator": "nvidia",
+      "creator_name": "NVIDIA",
+      "release_date": "2026-10-15",
+      "scores": {
+        "hle": {
+          "value": 0.247
+        },
+        "intelligence_index": {
+          "value": 21.4
+        },
+        "lcr": {
+          "value": 0.696666666666667
+        },
+        "price_blended": {
+          "value": 0.0
+        },
+        "price_input": {
+          "value": 0.0
+        },
+        "price_output": {
+          "value": 0.0
+        },
+        "scicode": {
+          "value": 0.397
         }
       }
     },
