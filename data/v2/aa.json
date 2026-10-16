@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T04:48:01.092794819+00:00",
+    "fetched_at": "2026-10-16T05:48:00.409052703+00:00",
     "verified": true
   },
   "metrics": [
@@ -5964,52 +5964,6 @@
       }
     },
     {
-      "id": "solar-pro4",
-      "name": "Solar Pro 4",
-      "display_name": "Solar Pro 4",
-      "creator": "upstage",
-      "creator_name": "Upstage",
-      "release_date": "2026-08-06",
-      "scores": {
-        "coding_index": {
-          "value": 52.7
-        },
-        "gpqa": {
-          "value": 0.891
-        },
-        "hle": {
-          "value": 0.292
-        },
-        "intelligence_index": {
-          "value": 28.2
-        },
-        "lcr": {
-          "value": 0.74
-        },
-        "output_tps": {
-          "value": 82.854
-        },
-        "price_blended": {
-          "value": 0.525
-        },
-        "price_input": {
-          "value": 0.3
-        },
-        "price_output": {
-          "value": 1.2
-        },
-        "scicode": {
-          "value": 0.446
-        },
-        "ttfat": {
-          "value": 25.139
-        },
-        "ttft": {
-          "value": 1.001
-        }
-      }
-    },
-    {
       "id": "claude-sonnet-5-medium",
       "name": "Claude Sonnet 5 (Medium)",
       "display_name": "Claude Sonnet 5",
@@ -6527,6 +6481,49 @@
         },
         "terminalbench_hard": {
           "value": 0.333333333333333
+        }
+      }
+    },
+    {
+      "id": "solar-pro4",
+      "name": "Solar Pro 4",
+      "display_name": "Solar Pro 4",
+      "creator": "upstage",
+      "creator_name": "Upstage",
+      "release_date": "2026-08-06",
+      "scores": {
+        "gpqa": {
+          "value": 0.891
+        },
+        "hle": {
+          "value": 0.298
+        },
+        "intelligence_index": {
+          "value": 26.6
+        },
+        "lcr": {
+          "value": 0.706666666666667
+        },
+        "output_tps": {
+          "value": 76.531
+        },
+        "price_blended": {
+          "value": 0.525
+        },
+        "price_input": {
+          "value": 0.3
+        },
+        "price_output": {
+          "value": 1.2
+        },
+        "scicode": {
+          "value": 0.48
+        },
+        "ttfat": {
+          "value": 26.957
+        },
+        "ttft": {
+          "value": 0.824
         }
       }
     },
