@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T19:48:13.746242296+00:00",
+    "fetched_at": "2026-10-16T21:18:18.563325617+00:00",
     "verified": true
   },
   "metrics": [
@@ -3225,7 +3225,7 @@
           "value": 0.783333333333333
         },
         "output_tps": {
-          "value": 122.148
+          "value": 126.124
         },
         "price_blended": {
           "value": 2.0
@@ -3240,10 +3240,10 @@
           "value": 0.584
         },
         "ttfat": {
-          "value": 16.825
+          "value": 16.287
         },
         "ttft": {
-          "value": 0.451
+          "value": 0.43
         }
       }
     },
