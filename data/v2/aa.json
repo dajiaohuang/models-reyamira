@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T13:18:02.711170035+00:00",
+    "fetched_at": "2026-10-16T14:18:01.601684609+00:00",
     "verified": true
   },
   "metrics": [
@@ -5259,8 +5259,8 @@
     },
     {
       "id": "reflection-beam",
-      "name": "Reflection Beam",
-      "display_name": "Reflection Beam",
+      "name": "Beam 1.0",
+      "display_name": "Beam 1.0",
       "creator": "reflection",
       "creator_name": "Reflection",
       "release_date": "2026-10-16",
