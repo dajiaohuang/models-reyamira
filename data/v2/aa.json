@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T15:18:13.862111853+00:00",
+    "fetched_at": "2026-10-16T15:48:17.355210431+00:00",
     "verified": true
   },
   "metrics": [
@@ -8615,13 +8615,13 @@
           "value": 141.375
         },
         "price_blended": {
-          "value": 1.075
+          "value": 1.125
         },
         "price_input": {
           "value": 0.6
         },
         "price_output": {
-          "value": 2.5
+          "value": 2.7
         },
         "scicode": {
           "value": 0.403
@@ -9522,13 +9522,13 @@
           "value": 0.73
         },
         "price_blended": {
-          "value": 0.525
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.0
         },
         "price_output": {
-          "value": 1.2
+          "value": 0.0
         },
         "tau2": {
           "value": 0.894736842105263
@@ -12425,13 +12425,13 @@
           "value": 59.274
         },
         "price_blended": {
-          "value": 0.175
+          "value": 0.168
         },
         "price_input": {
           "value": 0.1
         },
         "price_output": {
-          "value": 0.4
+          "value": 0.37
         },
         "scicode": {
           "value": 0.4
@@ -14759,13 +14759,13 @@
           "value": 0.809
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.0
         },
         "price_output": {
-          "value": 2.5
+          "value": 0.0
         },
         "tau2": {
           "value": 0.804093567251462
@@ -17083,13 +17083,13 @@
           "value": 204.224
         },
         "price_blended": {
-          "value": 0.26
+          "value": 0.242
         },
         "price_input": {
-          "value": 0.15
+          "value": 0.125
         },
         "price_output": {
-          "value": 0.59
+          "value": 0.595
         },
         "scicode": {
           "value": 0.34
@@ -17814,13 +17814,13 @@
           "value": 0.798
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.0
         },
         "price_output": {
-          "value": 2.5
+          "value": 0.0
         },
         "tau2": {
           "value": 0.678362573099415
@@ -18747,13 +18747,13 @@
           "value": 215.826
         },
         "price_blended": {
-          "value": 0.237
+          "value": 0.223
         },
         "price_input": {
-          "value": 0.15
+          "value": 0.1
         },
         "price_output": {
-          "value": 0.5
+          "value": 0.59
         },
         "tau2": {
           "value": 0.450292397660819
@@ -18991,13 +18991,13 @@
           "value": 286.845
         },
         "price_blended": {
-          "value": 0.106
+          "value": 0.115
         },
         "price_input": {
           "value": 0.07
         },
         "price_output": {
-          "value": 0.215
+          "value": 0.25
         },
         "tau2": {
           "value": 0.502923976608187
@@ -19538,13 +19538,13 @@
           "value": 147.851
         },
         "price_blended": {
-          "value": 0.388
+          "value": 0.381
         },
         "price_input": {
-          "value": 0.15
+          "value": 0.125
         },
         "price_output": {
-          "value": 1.1
+          "value": 1.15
         },
         "tau2": {
           "value": 0.216374269005848
@@ -20074,13 +20074,13 @@
           "value": 50.455
         },
         "price_blended": {
-          "value": 0.405
+          "value": 0.417
         },
         "price_input": {
           "value": 0.25
         },
         "price_output": {
-          "value": 0.87
+          "value": 0.92
         },
         "scicode": {
           "value": 0.317
@@ -20187,13 +20187,13 @@
           "value": 59.89
         },
         "price_blended": {
-          "value": 0.675
+          "value": 0.482
         },
         "price_input": {
-          "value": 0.5
+          "value": 0.31
         },
         "price_output": {
-          "value": 1.2
+          "value": 1.0
         },
         "scicode": {
           "value": 0.362
@@ -20939,13 +20939,13 @@
           "value": 222.283
         },
         "price_blended": {
-          "value": 0.098
+          "value": 0.097
         },
         "price_input": {
-          "value": 0.07
+          "value": 0.058
         },
         "price_output": {
-          "value": 0.18
+          "value": 0.215
         },
         "scicode": {
           "value": 0.389
@@ -22595,13 +22595,13 @@
           "value": 0.719
         },
         "price_blended": {
-          "value": 0.85
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.3
+          "value": 0.0
         },
         "price_output": {
-          "value": 2.5
+          "value": 0.0
         },
         "tau2": {
           "value": 0.447368421052632
@@ -24136,13 +24136,13 @@
           "value": 0.776
         },
         "price_blended": {
-          "value": 0.485
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.28
+          "value": 0.0
         },
         "price_output": {
-          "value": 1.1
+          "value": 0.0
         },
         "tau2": {
           "value": 0.0
@@ -25422,13 +25422,13 @@
           "value": 0.793
         },
         "price_blended": {
-          "value": 0.247
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.14
+          "value": 0.0
         },
         "price_output": {
-          "value": 0.57
+          "value": 0.0
         },
         "tau2": {
           "value": 0.0
@@ -27276,13 +27276,13 @@
           "value": 0.0
         },
         "price_blended": {
-          "value": 0.047
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.026
+          "value": 0.0
         },
         "price_output": {
-          "value": 0.11
+          "value": 0.0
         },
         "tau2": {
           "value": 0.345029239766082
@@ -28399,13 +28399,13 @@
           "value": 0.624
         },
         "price_blended": {
-          "value": 0.107
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.06
+          "value": 0.0
         },
         "price_output": {
-          "value": 0.25
+          "value": 0.0
         },
         "tau2": {
           "value": 0.172514619883041
@@ -31124,13 +31124,13 @@
           "value": 0.522
         },
         "price_blended": {
-          "value": 0.125
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.1
+          "value": 0.0
         },
         "price_output": {
-          "value": 0.2
+          "value": 0.0
         },
         "tau2": {
           "value": 0.125730994152047
@@ -31756,13 +31756,13 @@
           "value": 0.0
         },
         "price_blended": {
-          "value": 1.345
+          "value": 0.0
         },
         "price_input": {
-          "value": 0.82
+          "value": 0.0
         },
         "price_output": {
-          "value": 2.92
+          "value": 0.0
         },
         "tau2": {
           "value": 0.128654970760234
@@ -33360,13 +33360,13 @@
           "value": 0.849
         },
         "price_blended": {
-          "value": 1.25
+          "value": 0.0
         },
         "price_input": {
-          "value": 1.25
+          "value": 0.0
         },
         "price_output": {
-          "value": 1.25
+          "value": 0.0
         },
         "terminalbench_hard": {
           "value": 0.166666666666667
