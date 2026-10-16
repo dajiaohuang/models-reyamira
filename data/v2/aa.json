@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T00:18:05.170914226+00:00",
+    "fetched_at": "2026-10-16T00:47:59.112933263+00:00",
     "verified": true
   },
   "metrics": [
@@ -6605,13 +6605,13 @@
           "value": 142.217
         },
         "price_blended": {
-          "value": 0.237
+          "value": 0.35
         },
         "price_input": {
-          "value": 0.15
+          "value": 0.25
         },
         "price_output": {
-          "value": 0.5
+          "value": 0.65
         },
         "scicode": {
           "value": 0.478
