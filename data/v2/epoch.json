@@ -3,7 +3,7 @@
     "id": "epoch",
     "name": "Epoch AI",
     "url": "https://epoch.ai/benchmarks",
-    "fetched_at": "2026-10-16T06:18:16.646843566+00:00",
+    "fetched_at": "2026-10-16T18:18:19.109311275+00:00",
     "verified": true
   },
   "metrics": [
@@ -1606,6 +1606,10 @@
       "creator_name": "OpenAI",
       "release_date": "2026-09-03",
       "scores": {
+        "chess_puzzles": {
+          "value": 0.76,
+          "date": "2026-10-15"
+        },
         "weirdml": {
           "value": 0.9357,
           "date": "2026-09-03"
@@ -2751,10 +2755,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-07-27",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.23,
-          "date": "2026-08-07"
-        },
         "frontiermath_tiers_1_3_v2": {
           "value": 0.19298245614035087,
           "date": "2026-08-29"
@@ -3270,10 +3270,6 @@
         "arc_agi_2": {
           "value": 0.40138888888888885,
           "date": "2026-07-15"
-        },
-        "chess_puzzles": {
-          "value": 0.18,
-          "date": "2026-08-14"
         },
         "critpt": {
           "value": 0.08285714285714291,
@@ -4287,10 +4283,6 @@
           "value": 0.227,
           "date": "2026-06-04"
         },
-        "chess_puzzles": {
-          "value": 0.12,
-          "date": "2026-08-10"
-        },
         "critpt": {
           "value": 0.0314285714285714,
           "date": "2026-06-04"
@@ -4341,10 +4333,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-06-02",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.24,
-          "date": "2026-08-07"
-        },
         "critpt": {
           "value": 0.0914285714285714,
           "date": "2026-06-02"
@@ -4851,10 +4839,6 @@
       "creator_name": "OpenAI",
       "release_date": "2026-05-05",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.12,
-          "date": "2026-08-02"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2026-05-05"
@@ -5270,10 +5254,6 @@
       "release_date": "2026-04-23",
       "effort_level": "xhigh",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.54,
-          "date": "2026-04-24"
-        },
         "gpqa_diamond": {
           "value": 0.9400252525252525,
           "date": "2026-04-24"
@@ -5335,10 +5315,6 @@
       "release_date": "2026-04-23",
       "effort_level": "xhigh",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.64,
-          "date": "2026-05-01"
-        },
         "gpqa_diamond": {
           "value": 0.9392135642135643,
           "date": "2026-04-24"
@@ -5357,10 +5333,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-04-22",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.22,
-          "date": "2026-08-07"
-        },
         "critpt": {
           "value": 0.00857142857142857,
           "date": "2026-04-22"
@@ -5485,10 +5457,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-04-20",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.2,
-          "date": "2026-08-07"
-        },
         "dtbench": {
           "value": 0.872,
           "date": "2026-04-20"
@@ -5721,10 +5689,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-04-14",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.26,
-          "date": "2026-08-07"
-        },
         "critpt": {
           "value": 0.00285714285714286,
           "date": "2026-04-14"
@@ -5916,10 +5880,6 @@
       "release_date": "2026-04-02",
       "effort_level": "minimal",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.06,
-          "date": "2026-08-06"
-        },
         "gpqa_diamond": {
           "value": 0.7323232323232324,
           "date": "2026-08-06"
@@ -5941,10 +5901,6 @@
         "ale_bench": {
           "value": 925.5,
           "date": "2026-04-02"
-        },
-        "chess_puzzles": {
-          "value": 0.05,
-          "date": "2026-08-06"
         },
         "critpt": {
           "value": 0.0142857142857143,
@@ -6466,10 +6422,6 @@
           "value": 797.73,
           "date": "2026-03-03"
         },
-        "chess_puzzles": {
-          "value": 0.25,
-          "date": "2026-08-06"
-        },
         "critpt": {
           "value": 0.0114285714285714,
           "date": "2026-03-03"
@@ -6619,20 +6571,6 @@
       }
     },
     {
-      "id": "qwen3.5-2b",
-      "name": "qwen3.5-2b_none",
-      "display_name": "qwen3.5-2b",
-      "creator": "alibaba",
-      "creator_name": "Alibaba",
-      "release_date": "2026-02-24",
-      "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        }
-      }
-    },
-    {
       "id": "qwen3.5-35b-a3b",
       "name": "qwen3.5-35b-a3b",
       "display_name": "qwen3.5-35b-a3b",
@@ -6640,10 +6578,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-02-24",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.1,
-          "date": "2026-08-30"
-        },
         "critpt": {
           "value": 0.00571428571428571,
           "date": "2026-02-24"
@@ -6692,10 +6626,6 @@
       "creator_name": "Alibaba",
       "release_date": "2026-02-24",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.12,
-          "date": "2026-08-27"
-        },
         "critpt": {
           "value": 0.00285714285714286,
           "date": "2026-02-24"
@@ -6755,8 +6685,8 @@
           "date": "2026-02-19"
         },
         "chess_puzzles": {
-          "value": 0.55,
-          "date": "2026-02-19"
+          "value": 0.51,
+          "date": "2026-10-13"
         },
         "critpt": {
           "value": 0.177142857142857,
@@ -7074,10 +7004,6 @@
           "value": 0.249,
           "date": "2026-02-13"
         },
-        "chess_puzzles": {
-          "value": 0.13,
-          "date": "2026-08-07"
-        },
         "dtbench": {
           "value": 0.8747,
           "date": "2026-02-13"
@@ -7175,10 +7101,6 @@
         "arc_agi_2": {
           "value": 0.0486,
           "date": "2026-02-11"
-        },
-        "chess_puzzles": {
-          "value": 0.1,
-          "date": "2026-02-12"
         },
         "gpqa_diamond": {
           "value": 0.8781725888324873,
@@ -7348,10 +7270,6 @@
       "creator_name": "Moonshot",
       "release_date": "2026-01-27",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.12,
-          "date": "2026-01-28"
-        },
         "gpqa_diamond": {
           "value": 0.876,
           "date": "2026-02-02"
@@ -7790,10 +7708,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2025-12-01",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-07-16"
-        },
         "dtbench": {
           "value": 0.6267,
           "date": "2025-12-01"
@@ -7820,10 +7734,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2025-12-01",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.14,
-          "date": "2025-12-16"
-        },
         "gpqa_diamond": {
           "value": 0.8342352092352093,
           "date": "2025-12-16"
@@ -8062,10 +7972,6 @@
           "value": 0.5810000000000001,
           "date": "2026-02-03"
         },
-        "chess_puzzles": {
-          "value": 0.31,
-          "date": "2025-12-08"
-        },
         "critpt": {
           "value": 0.069,
           "date": "2025-11-18"
@@ -8218,10 +8124,6 @@
       "creator_name": "Moonshot",
       "release_date": "2025-11-06",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.2,
-          "date": "2025-12-10"
-        },
         "gpqa_diamond": {
           "value": 0.8421717171717171,
           "date": "2025-11-11"
@@ -8240,10 +8142,6 @@
       "creator_name": "",
       "release_date": "2025-10-28",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.2398989898989899,
           "date": "2026-08-28"
@@ -8262,10 +8160,6 @@
       "creator_name": "",
       "release_date": "2025-10-28",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.11237373737373738,
           "date": "2026-08-28"
@@ -8424,10 +8318,6 @@
       "creator_name": "",
       "release_date": "2025-10-02",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.2828282828282828,
           "date": "2026-08-30"
@@ -8616,10 +8506,6 @@
           "value": 370.45,
           "date": "2025-09-24"
         },
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2025-12-10"
-        },
         "dtbench": {
           "value": 0.8212999999999999,
           "date": "2025-09-24"
@@ -8750,10 +8636,6 @@
       "creator_name": "Mistral AI",
       "release_date": "2025-09-18",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.03,
-          "date": "2026-08-30"
-        },
         "critpt": {
           "value": 0.00285714285714286,
           "date": "2025-09-18"
@@ -8867,10 +8749,6 @@
       "creator_name": "",
       "release_date": "2025-08-20",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.13,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.7152777777777778,
           "date": "2026-08-30"
@@ -9165,10 +9043,6 @@
       "creator_name": "",
       "release_date": "2025-08-06",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.4583333333333333,
           "date": "2026-08-28"
@@ -9190,10 +9064,6 @@
         "ale_bench": {
           "value": 674.77,
           "date": "2025-08-05"
-        },
-        "chess_puzzles": {
-          "value": 0.07,
-          "date": "2026-07-20"
         },
         "dtbench": {
           "value": 0.8,
@@ -9291,10 +9161,6 @@
           "value": 566.05,
           "date": "2025-08-05"
         },
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2026-08-27"
-        },
         "critpt": {
           "value": 0.0142857142857143,
           "date": "2025-08-05"
@@ -9333,10 +9199,6 @@
       "creator_name": "OpenAI",
       "release_date": "2025-08-05",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.2,
-          "date": "2025-12-11"
-        },
         "critpt": {
           "value": 0.0114285714285714,
           "date": "2025-08-05"
@@ -9426,10 +9288,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-07-30",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.08,
-          "date": "2026-08-30"
-        },
         "critpt": {
           "value": 0.00285714285714286,
           "date": "2025-07-30"
@@ -9464,10 +9322,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-07-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.02,
-          "date": "2026-08-30"
-        },
         "dtbench": {
           "value": 0.672,
           "date": "2025-07-29"
@@ -9524,10 +9378,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-07-25",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.12,
-          "date": "2025-12-11"
-        },
         "dtbench": {
           "value": 0.8027,
           "date": "2025-07-25"
@@ -9654,10 +9504,6 @@
           "value": 0.436,
           "date": "2025-07-23"
         },
-        "chess_puzzles": {
-          "value": 0.28,
-          "date": "2026-01-30"
-        },
         "gpqa_diamond": {
           "value": 0.87,
           "date": "2025-07-09"
@@ -9724,10 +9570,6 @@
       "creator_name": "Mistral AI",
       "release_date": "2025-06-20",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.49053030303030304,
           "date": "2026-08-28"
@@ -9832,10 +9674,6 @@
         "arc_agi_2": {
           "value": 0.0486,
           "date": "2025-06-17"
-        },
-        "chess_puzzles": {
-          "value": 0.2,
-          "date": "2025-12-08"
         },
         "critpt": {
           "value": 0.02,
@@ -10033,10 +9871,6 @@
       "creator_name": "",
       "release_date": "2025-05-28",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.03,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.0928030303030303,
           "date": "2026-08-28"
@@ -10277,10 +10111,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2026-08-30"
-        },
         "dtbench": {
           "value": 0.6027,
           "date": "2025-04-29"
@@ -10311,10 +10141,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.05,
-          "date": "2026-08-28"
-        },
         "critpt": {
           "value": 0.00285714285714286,
           "date": "2025-04-29"
@@ -10349,10 +10175,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.380050505050505,
           "date": "2026-08-28"
@@ -10371,10 +10193,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2026-08-30"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2025-04-29"
@@ -10423,10 +10241,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.5233585858585859,
           "date": "2026-08-28"
@@ -10459,10 +10273,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-04-28",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.05,
-          "date": "2026-08-27"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2025-04-28"
@@ -11187,10 +10997,6 @@
       "creator_name": "Mistral AI",
       "release_date": "2025-03-17",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.41919191919191917,
           "date": "2026-08-30"
@@ -11227,10 +11033,6 @@
       "creator_name": "Google DeepMind",
       "release_date": "2025-03-12",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2025-03-12"
@@ -11265,10 +11067,6 @@
       "creator_name": "Google DeepMind",
       "release_date": "2025-03-12",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.1994949494949495,
           "date": "2026-08-28"
@@ -11287,10 +11085,6 @@
       "creator_name": "Google DeepMind",
       "release_date": "2025-03-12",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-27"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2025-03-12"
@@ -11325,10 +11119,6 @@
       "creator_name": "Google DeepMind",
       "release_date": "2025-03-12",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "dtbench": {
           "value": 0.5093,
           "date": "2025-03-12"
@@ -11369,10 +11159,6 @@
       "creator_name": "Alibaba",
       "release_date": "2025-03-05",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.05,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.6534090909090909,
           "date": "2026-08-28"
@@ -11605,10 +11391,6 @@
       "creator_name": "Mistral AI",
       "release_date": "2025-01-30",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.47285353535353536,
           "date": "2026-08-30"
@@ -11763,10 +11545,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2025-01-20",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.33585858585858586,
           "date": "2026-08-28"
@@ -11785,10 +11563,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2025-01-20",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.44696969696969696,
           "date": "2025-03-10"
@@ -11810,10 +11584,6 @@
         "balrog": {
           "value": 0.195,
           "date": "2025-01-26"
-        },
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-28"
         },
         "gpqa_diamond": {
           "value": 0.6414141414141414,
@@ -11952,10 +11722,6 @@
         "balrog": {
           "value": 0.11599999999999999,
           "date": "2025-01-13"
-        },
-        "chess_puzzles": {
-          "value": 0.01,
-          "date": "2026-08-28"
         },
         "gpqa_diamond": {
           "value": 0.5606060606060606,
@@ -12305,10 +12071,6 @@
           "value": 0.066,
           "date": "2024-11-11"
         },
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.23926767676767677,
           "date": "2026-08-30"
@@ -12469,10 +12231,6 @@
           "value": 0.078,
           "date": "2024-11-25"
         },
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "dtbench": {
           "value": 0.4773,
           "date": "2024-09-19"
@@ -12513,10 +12271,6 @@
       "creator_name": "Alibaba",
       "release_date": "2024-09-17",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.46085858585858586,
           "date": "2025-01-30"
@@ -12771,10 +12525,6 @@
           "value": 0.151,
           "date": "2024-11-11"
         },
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-27"
-        },
         "critpt": {
           "value": 0.0,
           "date": "2024-07-23"
@@ -12997,10 +12747,6 @@
       "creator_name": "Mistral AI",
       "release_date": "2024-05-27",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        },
         "gpqa_diamond": {
           "value": 0.1518308080808081,
           "date": "2025-01-27"
@@ -13114,20 +12860,6 @@
       }
     },
     {
-      "id": "Phi-3-mini-4k-instruct",
-      "name": "Phi-3-mini-4k-instruct",
-      "display_name": "Phi-3-mini-4k-instruct",
-      "creator": "microsoft",
-      "creator_name": "Microsoft",
-      "release_date": "2024-04-23",
-      "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        }
-      }
-    },
-    {
       "id": "Meta-Llama-3-70B-Instruct",
       "name": "Meta-Llama-3-70B-Instruct",
       "display_name": "Meta-Llama-3-70B-Instruct",
@@ -13157,10 +12889,6 @@
       "creator_name": "Meta AI",
       "release_date": "2024-04-18",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "dtbench": {
           "value": 0.4393,
           "date": "2024-04-18"
@@ -13229,10 +12957,6 @@
       "creator_name": "OpenAI",
       "release_date": "2024-04-09",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.06,
-          "date": "2026-07-15"
-        },
         "frontiermath_tiers_1_3_v2": {
           "value": 0.007017543859649123,
           "date": "2026-08-27"
@@ -13431,10 +13155,6 @@
       "creator_name": "OpenAI",
       "release_date": "2024-01-25",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-07"
-        },
         "dtbench": {
           "value": 0.4853,
           "date": "2024-01-25"
@@ -13555,10 +13275,6 @@
       "creator_name": "DeepSeek",
       "release_date": "2023-11-29",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.24621212121212122,
           "date": "2025-01-27"
@@ -13695,10 +13411,6 @@
       "creator_name": "Meta AI",
       "release_date": "2023-07-18",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "dtbench": {
           "value": 0.42240000000000005,
           "date": "2023-07-18"
@@ -13738,20 +13450,6 @@
       }
     },
     {
-      "id": "llama-2-7b-chat",
-      "name": "llama-2-7b-chat",
-      "display_name": "llama-2-7b-chat",
-      "creator": "meta-ai",
-      "creator_name": "Meta AI",
-      "release_date": "2023-07-18",
-      "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-30"
-        }
-      }
-    },
-    {
       "id": "claude-2.0",
       "name": "claude-2.0",
       "display_name": "claude-2.0",
@@ -13781,10 +13479,6 @@
       "creator_name": "OpenAI",
       "release_date": "2023-06-13",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.04,
-          "date": "2026-08-07"
-        },
         "dtbench": {
           "value": 0.6267,
           "date": "2023-06-13"
@@ -13851,10 +13545,6 @@
       "creator": "",
       "creator_name": "",
       "scores": {
-        "chess_puzzles": {
-          "value": 0.0,
-          "date": "2026-08-28"
-        },
         "gpqa_diamond": {
           "value": 0.6054292929292929,
           "date": "2026-08-30"
