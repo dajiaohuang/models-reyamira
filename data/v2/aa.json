@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-16T12:18:03.592815272+00:00",
+    "fetched_at": "2026-10-16T13:18:02.711170035+00:00",
     "verified": true
   },
   "metrics": [
@@ -5254,6 +5254,37 @@
         },
         "terminalbench_hard": {
           "value": 0.46969696969697
+        }
+      }
+    },
+    {
+      "id": "reflection-beam",
+      "name": "Reflection Beam",
+      "display_name": "Reflection Beam",
+      "creator": "reflection",
+      "creator_name": "Reflection",
+      "release_date": "2026-10-16",
+      "scores": {
+        "hle": {
+          "value": 0.347
+        },
+        "intelligence_index": {
+          "value": 30.3
+        },
+        "lcr": {
+          "value": 0.78
+        },
+        "price_blended": {
+          "value": 0.0
+        },
+        "price_input": {
+          "value": 0.0
+        },
+        "price_output": {
+          "value": 0.0
+        },
+        "scicode": {
+          "value": 0.485
         }
       }
     },
