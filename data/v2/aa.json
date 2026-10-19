@@ -3,7 +3,7 @@
     "id": "aa",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai",
-    "fetched_at": "2026-10-19T12:17:57.453928957+00:00",
+    "fetched_at": "2026-10-19T12:48:02.590262018+00:00",
     "verified": true
   },
   "metrics": [
@@ -2209,6 +2209,37 @@
         },
         "scicode": {
           "value": 0.549
+        }
+      }
+    },
+    {
+      "id": "minimax-m3-1-flash",
+      "name": "MiniMax-M3.1-Flash",
+      "display_name": "MiniMax-M3.1-Flash",
+      "creator": "minimax",
+      "creator_name": "MiniMax",
+      "release_date": "2026-10-19",
+      "scores": {
+        "hle": {
+          "value": 0.48
+        },
+        "intelligence_index": {
+          "value": 42.4
+        },
+        "lcr": {
+          "value": 0.796666666666667
+        },
+        "price_blended": {
+          "value": 0.262
+        },
+        "price_input": {
+          "value": 0.15
+        },
+        "price_output": {
+          "value": 0.6
+        },
+        "scicode": {
+          "value": 0.534
         }
       }
     },
